@@ -1,4 +1,4 @@
-mr-active
+mr-predictive
 =========
 
 TODO - fix file structure...
